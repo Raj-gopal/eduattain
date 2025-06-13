@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678260640894",
+    "project_id": "eduattain-316cd",
+    "storage_bucket": "eduattain-316cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678260640894:android:1e03ff0670eda60c26dc2f",
+        "android_client_info": {
+          "package_name": "com.android.eduattain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7bSi_wkM8PToRGCGUNebhqwAbvXyNdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
